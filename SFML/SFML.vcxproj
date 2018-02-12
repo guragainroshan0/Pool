@@ -120,10 +120,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ball.cpp" />
+    <ClCompile Include="Board.cpp" />
     <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animation.h" />
+    <ClInclude Include="Ball.h" />
+    <ClInclude Include="Board.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
