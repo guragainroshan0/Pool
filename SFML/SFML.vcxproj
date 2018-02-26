@@ -122,13 +122,18 @@
   <ItemGroup>
     <ClCompile Include="Ball.cpp" />
     <ClCompile Include="Board.cpp" />
+    <ClCompile Include="holes.cpp" />
+    <ClCompile Include="Object.cpp" />
     <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animation.h" />
     <ClInclude Include="Ball.h" />
     <ClInclude Include="Board.h" />
+    <ClInclude Include="holes.h" />
+    <ClInclude Include="Object.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="vec.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SFML.rc" />
